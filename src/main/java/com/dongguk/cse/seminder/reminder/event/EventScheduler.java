@@ -29,6 +29,7 @@ public class EventScheduler {
 
     private final SNSMessageUtil util;
 
+    @Scheduled(cron = "0 30 23 * * *")	// 매일 23시 30분
     public void sendMessageByCoolSMS() {
         util.sendMessage(phoneNum, getScheduleInFile());
     }
