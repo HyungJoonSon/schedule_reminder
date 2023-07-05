@@ -1,0 +1,80 @@
+{
+  "update_date": "2023-07-05",
+  "data": [
+    {
+      "day_name": "월요일",
+      "to_do_list": [
+        {
+          "content": "Dongvies 기술고문",
+          "location": "경기도 수원시 매탄동",
+          "time": "14:00 ~ 16:30"
+        },
+        {
+          "content": "동국대 알고리즘 스터디",
+          "location": "신공학관 알파실",
+          "time": "19:00 ~ 19:30"
+        }
+      ]
+    },
+    {
+      "day_name": "화요일",
+      "to_do_list": [
+      ]
+    },
+    {
+      "day_name": "수요일",
+      "to_do_list": [
+        {
+          "content": "ASCP 연구 미팅",
+          "location": "정보문화관 P610",
+          "time": "14:00 ~ 16:00"
+        },
+        {
+          "content": "ASCP 연구 회의",
+          "location": "필동관 회의실",
+          "time": "16:00 ~ 18:00"
+        }
+      ]
+    },
+    {
+      "day_name": "목요일",
+      "to_do_list": [
+        {
+          "content": "내가 만든 산책로, 내만산 회의",
+          "location": "신공학관 알파실",
+          "time": "13:00 ~ 15:30"
+        },
+        {
+          "content": "(약알) 공개 SW 개발자대회 회의",
+          "location": "신공학관 알파실",
+          "time": "16:00 ~ 18:00"
+        },
+        {
+          "content": "동국대 스프링 스터디",
+          "location": "신공학관 알파실",
+          "time": "19:00 ~ 21:00"
+        },
+        {
+          "content": "Dongvies Pointer 강의",
+          "location": "Online:Discord",
+          "time": "22:00 ~ 23:00"
+        }
+      ]
+    },
+    {
+      "day_name": "금요일",
+      "to_do_list": [
+      ]
+    },
+    {
+      "day_name": "토요일",
+      "to_do_list": [
+      ]
+    },
+    {
+      "day_name": "일요일",
+      "to_do_list": [
+      ]
+    }
+  ]
+}
